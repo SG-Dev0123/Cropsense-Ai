@@ -83,9 +83,6 @@ Framework	Ultralytics
 Passwords stored using SHA-256 hashing
 Local storage authentication
 API key protection recommended using .env
-📸 Screenshots
-
-Add your project screenshots here.
 
 👨‍💻 Developed By
 
